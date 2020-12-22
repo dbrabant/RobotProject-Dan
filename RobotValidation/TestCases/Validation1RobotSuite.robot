@@ -99,3 +99,5 @@ TC_004_ResultTextValidation
     Close Browser   
 
 
+ TC_006_DisplaySimpleText
+    Log To Console    Odyle to GitHub.    
