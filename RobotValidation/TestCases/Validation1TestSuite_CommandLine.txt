@@ -1,0 +1,5 @@
+robot -t TC_002_TextFieldValidation TestCases\Validation1RobotSuite.robot
+robot -t TC_002_TextFieldValidation TestCases\Validation1RobotSuite.robot
+robot -t TC_003_CheckBoxValidation TestCases\Validation1RobotSuite.robot
+robot -t TC_004_ResultTextValidation TestCases\Validation1RobotSuite.robot
+robot -t TC_005_ElementValidation TestCases\Validation1RobotSuite.robot
